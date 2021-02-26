@@ -1,5 +1,4 @@
-# Puissance 4 C++/SFML
+# Jeu C++/SFML
 
-* jouer contre l'IA
-* jouer en local à 2
-* jouer en réseau
+* controller le personnage, eviter les ennemis et les obstacles, gagner des points
+* mode édition interactive de niveaux
